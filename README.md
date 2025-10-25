@@ -137,11 +137,13 @@ else:
 
 ### TEST_PREDICTION:
 <img width="990" height="547" alt="image" src="https://github.com/user-attachments/assets/e13c3320-6e60-4534-8d03-6932136424d8" />
+Root Mean Squared Error (RMSE): 1.0616
 
 
 ### DECOMPOSITION:
 <img width="989" height="820" alt="image" src="https://github.com/user-attachments/assets/117a0088-98ed-4e5a-9f8e-6c0088a66ab2" />
-
+Training data size: 2089
+Testing data size: 523
 
 ### FINAL_PREDICTION :
 
